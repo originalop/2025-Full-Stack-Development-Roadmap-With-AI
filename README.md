@@ -22,6 +22,7 @@ In 4 years of my development journey (2019-2025), I completed **50+ projects** f
 
 ### 1. Web Foundations: HTML, CSS, JavaScript
 - Learn **HTML** (semantic tags, forms, tables)
+- [ ]
 - Learn **CSS** (selectors, box model, Flexbox, Grid, responsive design)
 - Master **JavaScript** basics (variables, loops, functions, DOM manipulation, ES6+ features)
 
